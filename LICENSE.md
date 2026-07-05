@@ -1,6 +1,6 @@
 # Personal & Educational Use License
 
-Copyright (c) 2025 Sahil Bhuva
+Copyright (c) 2025 - 2026 Sahil Bhuva
 
 ## Grant of License
 
@@ -43,5 +43,5 @@ This license automatically terminates if you violate any of these restrictions a
 
 ---
 
-*Last updated: **September 29, 2025***
+
 
